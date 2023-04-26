@@ -52,6 +52,7 @@ body{
     cursor: pointer;
 }
 .product img{
+    padding:5px 0;
     width:70x;
     height:70px;
     object-fit: cover;
