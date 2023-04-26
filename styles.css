@@ -43,3 +43,20 @@ body{
 .container form i{
     padding-left: 10px;
 }
+.product{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.product img{
+    width:70x;
+    height:70px;
+    object-fit: cover;
+    border: 5px;
+}
+.product .prod-details h2{
+    font-size: 20px;
+}
+.product .prod-details h2{
+    font-size: 18px;
+}
